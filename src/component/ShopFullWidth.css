@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    grid-template-columns: auto;
+    text-align: center;
+    background-color: #cccccc77
+    
+  }
+  .column {
+    padding: 6px;
+    height: auto;
+    margin: 5px;
+    background-color: #cccccc;
+  }
+  .column1 {
+    padding: 26px;
+    height: auto;
+    margin: 5px;
+    background-color: #cccccc;
+  }
